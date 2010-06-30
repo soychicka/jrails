@@ -1,12 +1,11 @@
 = jRails
 
 jRails is a drop-in jQuery replacement for the Rails Prototype/script.aculo.us helpers.
-
 == Resources
 
 Install
 
-* .script/plugin install git://github.com/aaronchi/jrails.git
+* .script/plugin install git://github.com/soychicka/jrails.git
 
 Project Site
 
